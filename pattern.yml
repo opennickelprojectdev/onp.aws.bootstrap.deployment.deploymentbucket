@@ -1,7 +1,6 @@
 metadata:
   pattern-id: onp.aws.bootstrap.deployment.deploymentbucket
   pattern-name: deployment-bucket
-  pattern-version: 1.0.1
   organisation-id: onp
   pattern-categories: 
               - bootstrap
