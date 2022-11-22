@@ -5,7 +5,6 @@
 | ----------------------- | --------------------------------------------- |
 | pattern-id              | onp.aws.bootstrap.deployment.deploymentbucket |
 | pattern-name            | deployment-bucket                             |
-| pattern-version         | 1.0.2                                         |
 | organisation-id         | nc                                            |
 | pattern-categories      | bootstrap                                     |
 
