@@ -5,7 +5,7 @@
 | ----------------------- | --------------------------------------------- |
 | pattern-id              | onp.aws.bootstrap.deployment.deploymentbucket |
 | pattern-name            | deployment-bucket                             |
-| pattern-version         | 1.0.0                                       |
+| pattern-version         | 1.0.3                                       |
 | pattern-description     | This pattern is used as a temporary storage for the deployment material. Common use cases include storing Cloudformation stacks which are ready to be deployed and storing compressed code artifacts used for lambda based deployments.                                                              |
 | organisation-id         | nc                                            |
 | pattern-categories      | bootstrap                                     |
